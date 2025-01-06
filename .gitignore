@@ -45,7 +45,7 @@ out/
 !**/src/test/**
 !artifacts/app-deadline.jar
 .idea/
-gradlew
-gradlew.bat
-lombok.config
-settings.gradle
+.gradlew/
+.gradlew.bat/
+.lombok.config/
+.settings.gradle/
